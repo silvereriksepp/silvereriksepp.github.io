@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    text-align: left;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+        font-size: 40px;
+        text-align: center;
+        color: crimson;
+}
+
+table, th, td {
+  border: 3px solid #000000;
+  border-collapse: collapse;
+}
+
+a {
+    font-size: 40px;
+    color: #68ff57;
+    text-align: end;
+}
+
+h2 {
+    font-size: 30px;
+}
